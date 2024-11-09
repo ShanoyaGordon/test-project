@@ -1,2 +1,2 @@
 # test-project
-This is a test project to learn how to use github
+Shanoya is hot.
